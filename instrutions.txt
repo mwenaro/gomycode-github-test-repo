@@ -1,0 +1,17 @@
+=> Git/Github
+	
+	- basic linux commands
+		- cd
+			
+	
+	- basic commands
+		- status => get status of the repo or an error if not a repo
+		- init => initiling git repo. Git will create a private/hidden .git directory
+                - add => add a file(s) , directory into the stagging area	
+				* git add myfile, git add .
+                - commit > saving a snapshot of your file(s) or repo into the local machine
+   		- log > gives the commit history
+		- git restore > undo uncommited changes
+		- branch > lists the repo branches
+
+		
